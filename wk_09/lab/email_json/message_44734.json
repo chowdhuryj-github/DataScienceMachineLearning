@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "Jeremy Allison <jra@samba.org>", "from_address": "Andrew Bartlett <abartlet@samba.org>", "subject": "Re: [PATCH 1/4] Make sure groups[0] is the effective gid on FreeBSD.", "body": ""}

@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "krbdev@mit.edu", "from_address": "Guenther Deschner <gd@samba.org>", "subject": "[PATCH] krb5_get_init_creds_opt_get_error and krb5_copy_error", "body": ""}

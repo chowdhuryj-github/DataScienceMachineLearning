@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #41897\": ;", "from_address": "\"James Keenan via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #41897] [BUG]:  Parrot::Pmc2c::STMRef gets 'subroutine prederef redefined' warning ", "body": ""}

@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: [perl #42790] [BUG] Tailcall with slurpy argument passing causes a memory leak", "body": ""}

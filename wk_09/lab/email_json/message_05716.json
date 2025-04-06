@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #39851\": ;", "from_address": "\"Allison Randal via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #39851] [BUG] .HLL doesn't reset the .namespace ", "body": "Fixed in r18215.\n\n"}

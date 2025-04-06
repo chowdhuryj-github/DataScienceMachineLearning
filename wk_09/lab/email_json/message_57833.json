@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43420\": ;", "from_address": "\"James Keenan via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #43420] [BUG] No rule to make target `src/path.str' ", "body": "Appears to have been resolved somewhere between r19418 and r19424.\n\n"}

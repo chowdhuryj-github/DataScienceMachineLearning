@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba tech <samba-technical@lists.samba.org>", "from_address": "Herb Lewis <hlewis@panasas.com>", "subject": "smbtorture DENY2", "body": "I tried running smbtorture DENY2 test against the latest 3.0.25\nsvn code and it is super slow. The test used to run in about 8 secs.\nNow it is taking 527 secs. Is anyone else seeing this?\n\n"}

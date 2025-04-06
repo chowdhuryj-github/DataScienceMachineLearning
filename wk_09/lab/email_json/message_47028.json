@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "Frank Gruman <fgatwork@verizon.net>", "from_address": "tridge@samba.org", "subject": "Re: EPOLL_CTL_ADD failed (Bad file descriptor) in TP5", "body": "Frank,\n\nAlso let us know which kernel and what distro you are running.\n\nCheers, Tridge\n\n"}

@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba-technical@lists.samba.org", "from_address": "James Peach <jpeach@samba.org>", "subject": "any valid uses of the \"nobody\" SID?", "body": "Hi all,\n\nDoes anyone know of any valid uses of S-1-0-0? Dhat is, does it ever  \nmake sense to map a user to this SID?\n\n--\nJames Peach | jpeach@samba.org\n\n"}

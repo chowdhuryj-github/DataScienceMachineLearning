@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #42690\": ;", "from_address": "\"James Keenan via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #42690] [TODO] optionally run configure/build tests during config process ", "body": "I have taken this ticket because I have begun working on it in the 'reconfigure' branch.\n\n"}

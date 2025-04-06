@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #42072\": ;", "from_address": "\"James Keenan via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #42072] [BUG]:  pmc2c.pl:  Does anyone (know how to) use the 'no-body' option? ", "body": "Committed to trunk in r18352.\n\n"}

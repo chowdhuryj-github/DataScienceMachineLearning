@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43253\": ;", "from_address": "\"Jerry Gay via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #43253] [BUG] parrot segfaults when building perl6 on windows with msvc ", "body": "applied workaround patch as r19136.\n~jerry\n\n"}

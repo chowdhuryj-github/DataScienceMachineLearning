@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: [perl #42591] [PATCH] Silencing \"missing sentinel\" warnings on OpenBSD", "body": "On Tuesday 17 April 2007 14:14, Steve Peters wrote:\n\n> Index: config/gen/platform/generic/exec.c\n\nThanks, applied as r18273.\n\n-- c\n\n"}

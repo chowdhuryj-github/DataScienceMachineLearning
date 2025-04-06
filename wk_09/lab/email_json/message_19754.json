@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "sugar@laptop.org", "from_address": "\"Gonzalo Odiard\" <godiard@gmail.com>", "subject": "[sugar] Errors sugar build", "body": "I thinks there are the following errors in\u00a0 the actual sugar build:hippo-canvas is compiled before pygtk (depends only fom gtk+ ?)telepathy-glib is compiled before dbus-glib Gonzalo\n"}

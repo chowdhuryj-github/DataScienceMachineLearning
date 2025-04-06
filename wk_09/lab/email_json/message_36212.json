@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba-technical@samba.org", "from_address": "\"Gerald (Jerry) Carter\" <jerry@samba.org>", "subject": "[PATCH] LOOKUP_NAME_EXPLICIT to avoid lockups between winbindd and\n nscd", "body": ""}

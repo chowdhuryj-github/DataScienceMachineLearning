@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "sugar@laptop.org", "from_address": "\"Alexandre Martinazzo\" <alexandremartinazzo@gmail.com>", "subject": "[sugar] username", "body": "Hi,When we first boot an XO, we must enter an username. After that, we can't change it (as long as I know), until another build is installed. Where is this username stored?Thanks,Alexandre\n"}

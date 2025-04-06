@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: [perl #42954] [CAGE] remove compilers/imcc/rebuild.pl", "body": "On Tuesday 15 May 2007 06:20:05 Jerry Gay wrote:\n\n> it seems F isn't used anymore, and can be\n> removed.\n\nYeah, that's way old.  Removed in r18559.\n\n-- c\n\n"}

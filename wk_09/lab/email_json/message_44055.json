@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals List <perl6-internals@perl.org>", "from_address": "Andy Lester <andy@petdance.com>", "subject": "Building with icc", "body": "Anyone out there using the Intel compiler?\n\nHow are you running Configure.pl?\n\nThanks,\nxoa\n\n--\nAndy Lester => andy@petdance.com => www.petdance.com => AIM:petdance\n\n\n\n\n"}

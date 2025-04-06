@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba-technical@samba.org", "from_address": "\"Gerald (Jerry) Carter\" <jerry@samba.org>", "subject": "Disable the krb5 replay cache when ads_verify_ticket() call from\n winbindd_pam.c", "body": ""}

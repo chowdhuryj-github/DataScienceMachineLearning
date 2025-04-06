@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "parrot-porters@perl.org", "from_address": "Jonathan Worthington <jonathan@jnthn.net>", "subject": "Re: PDD15 implementation status", "body": "Jonathan Worthington wrote:\n> #Instantiate it.\n> $P2 = $P2.new()\nUh...\n\n$P2 = $P1.new()\n\nD'oh.\n\nJonathan\n\n"}

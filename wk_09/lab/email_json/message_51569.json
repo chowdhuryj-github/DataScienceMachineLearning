@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43246\": ;", "from_address": "\"Nuno Carvalho via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #43246] [CAGE] Replace string_from_const_cstring() with string_from_cstring() ", "body": "Resolved in r19164, feel free to re-open if you find any problems.\n\nBest regards, \n./smash\n\n"}

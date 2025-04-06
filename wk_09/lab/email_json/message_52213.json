@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"Andy Lester\" <andy@petdance.com>", "from_address": "\"Mark J. Reed\" <markjreed@mail.com>", "subject": "Re: Struct copying", "body": "On 6/21/07, Andy Lester  wrote:\n> We now have STRUCT_COPY(dest,src) and STRUCT_COPY_N(dest,src,n) for\n> all your struct-copying needs.\n\nWait!  Wait!  It should be src, THEN dest!\n\n\n-- \nMark J. Reed \n"}

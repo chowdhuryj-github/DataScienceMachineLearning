@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43231\": ;", "from_address": "\"Matt Diephouse via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #43231] [BUG] :slurpy :named after :optional fails ", "body": "Fixed in r19073.\n\n--\nMatt Diephouse\n\n\n"}

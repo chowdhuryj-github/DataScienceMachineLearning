@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "\"Mehmet Yavuz Selim Soyturk\" <mehmet.yavuz.selim@gmail.com>", "subject": "Re: [perl #42594] [PATCH] Probable buffer overflow in compilers/imcc/parser_util.c", "body": "> +        format[sizeof(format - 1)] = '\\0';\n\n\nShouldn't that be 'format[sizeof(format) - 1]' ?\n\n-- \nMehmet\n\n"}

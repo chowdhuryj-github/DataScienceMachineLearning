@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "sugar@laptop.org", "from_address": "\"Erik Blankinship\" <erikb@mediamods.com>", "subject": "[sugar] internationalization?", "body": "HelloHow should activity developers internationalize their activities (strings, amongst other things)?\u00a0 Is there a way to ask which locale your activity is in?Erik\n"}

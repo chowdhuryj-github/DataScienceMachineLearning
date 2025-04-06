@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"Undisclosed.Recipients\": ;", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: draft NEWS update for 0.4.13", "body": "On Tuesday 19 June 2007 08:07:26 Will Coleda wrote:\n\n> I don't think tcl has any significant updates in this release.\n\nIt fails more tests faster.  That's significant, though not brag-worthy.\n\n-- c\n\n"}

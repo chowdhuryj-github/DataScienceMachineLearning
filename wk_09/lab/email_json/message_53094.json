@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: Parrot 0.4.13 \"Clifton\" Released", "body": "On Wednesday 20 June 2007 00:39:41 David Fetter wrote:\n\n> Please find enclosed a modified .spec file for the new parrot's RPMs :)\n\nThanks, applied as r19261.\n\n-- c\n\n"}

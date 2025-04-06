@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "\"Alek Storm\" <alek.storm@gmail.com>", "subject": "Re: [perl #42406] [PATCH] improper null testing in Parrot_instantiate_object", "body": "This patch has been sitting for over a week.  Is there a problem?\nIt's just a bugfix.\n\n-- \nAlek Storm\n\n"}

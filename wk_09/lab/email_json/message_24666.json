@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "\"Paul Cochrane\" <paultcochrane@gmail.com>", "subject": "Re: [perl #42897] [PATCH] spelling fixes in src/library.c", "body": "> A couple of minor spelling fixes in library.c , patch attached\n\nApplied in r18447, thanks!\n\n"}

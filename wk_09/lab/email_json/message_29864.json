@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "bugs-bitbucket@netlabs.develooper.com", "from_address": "Mark Glines (via RT) <parrotbug-followup@parrotcode.org>", "subject": "[perl #42950] [PATCH] mswin32 (msvc) builds don't need -lodbc32 ", "body": ""}

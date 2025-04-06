@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "Smylers <Smylers@stripey.com>", "from_address": "\"Damian Conway\" <damian@conway.org>", "subject": "Re: Referring to source code within Perldoc: the new A<> code", "body": "Smylers reported:\n\n> I was with you right up until the mention of C<=encoding>; what's that\n> got to do with anything?\n\nC&P bug. Patched. Thanks!\n\nDamian\n\n"}

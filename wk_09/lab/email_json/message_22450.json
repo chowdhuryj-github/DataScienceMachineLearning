@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "\"Klaas-Jan Stol\" <parrotcode@gmail.com>", "subject": "Re: [perl #42864] [BUG] Copying a :vtable sub also copies :vtable information", "body": ""}

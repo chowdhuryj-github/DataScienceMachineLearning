@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba-technical@lists.samba.org", "from_address": "Ismail =?utf-8?q?D=C3=B6nmez?= <ismail@pardus.org.tr>", "subject": "[PATCH] Python bindings: Don't choke if LIBS flag contains -pie", "body": ""}

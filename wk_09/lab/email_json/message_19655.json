@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #42795\": ;", "from_address": "\"Matt Diephouse via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #42795] [PATCH] NULL function pointer should be a pointer ", "body": "Applied in r18355. Thanks!\n\n--\nMatt Diephouse\n\n\n"}

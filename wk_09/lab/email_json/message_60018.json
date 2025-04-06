@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43452\": ;", "from_address": "\"James Keenan via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #43452] [PATCH] typo in docs/compiler_faq.pod ", "body": "Applied with one small change in r19533.\n\n"}

@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #42337\": ;", "from_address": "\"James Keenan via RT\" <bugs-parrot-track@netlabs.develooper.com>", "subject": "[perl #42337] [PATCH]:  Configure.pl:  Refactor list of steps into Parrot::Configure::Step::List ", "body": "Patches applied; closing ticket.\n\n"}

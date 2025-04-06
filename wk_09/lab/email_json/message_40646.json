@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "parrot-porters@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: [svn:parrot] r18726 - trunk/include/parrot", "body": "On Friday 01 June 2007 13:21:52 petdance@cvs.perl.org wrote:\n\n> Log:\n> Add function attributes for noreturn to help GCC\n\nAre those C89 attributes?  Do they break other compilers?\n\n-- c\n\n"}

@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-language@perl.org", "from_address": "Juerd Waalboer <juerd@convolution.nl>", "subject": "Re: propose renaming Hash to Dict", "body": "Dictionaries are usually alphabetically ordered. Hashes are not.\n-- \nkorajn salutojn,\n\n  juerd waalboer:  perl hacker   \n  convolution:     ict solutions and consultancy \n"}

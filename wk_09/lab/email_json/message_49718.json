@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "perl6-internals@perl.org", "from_address": "chromatic <chromatic@wgz.org>", "subject": "Re: [perl #43235] [PATCH][Win32] Fix Environment Variables Handling", "body": "On Sunday 17 June 2007 11:21:22 Ron Blaschke wrote:\n\n> Attached patch should take care of tickets #37301 and #40972.\n\nThanks, applied as r19068.\n\n-- c\n\n"}

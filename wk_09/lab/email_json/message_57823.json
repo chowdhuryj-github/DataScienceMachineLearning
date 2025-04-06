@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "\"OtherRecipients of perl Ticket #43420\": ;", "from_address": "\"James Keenan via RT\" <parrotbug-followup@parrotcode.org>", "subject": "[perl #43420] [BUG] No rule to make target `src/path.str' ", "body": "Binary searches suggest the error occurred between r19400 and r19424. \nAttempting to narrow it further.\n\n"}

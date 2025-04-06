@@ -1,0 +1,1 @@
+{"category": "ham", "to_address": "samba tech <samba-technical@lists.samba.org>", "from_address": "Herb Lewis <hlewis@panasas.com>", "subject": "nametogid and nametouid", "body": "In the file source/lib/util.c\n\nIs there some reason that we test for the numeric name first\nin nametogid and last in nametouid\n\nSeems to me we should be consistant :-)\n\n"}
