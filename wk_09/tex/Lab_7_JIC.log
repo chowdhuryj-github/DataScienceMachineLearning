@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  10 APR 2025 20:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  10 APR 2025 23:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,40 +143,47 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count287
 \@lastruleclass=\count288
 \@thisrulewidth=\dimen173
+) (C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count289
+\float@exts=\toks24
+\float@box=\box54
+\@float@everytoks=\toks25
+\@floatcapt=\box55
 ) (C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box56
 ) (Lab_7_JIC.aux)
 \openout1 = `Lab_7_JIC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
  (C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
+\scratchcounter=\count291
 \scratchdimen=\dimen174
-\scratchbox=\box55
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count293
+\scratchbox=\box57
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count294
 \MPscratchDim=\dimen175
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks27
 ) (C:\Users\chowdhuryj\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -234,19 +241,19 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
 
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 81--81
+Underfull \hbox (badness 3872) in paragraph at lines 82--82
 []\OT1/cmr/bx/n/12 Enriched Words with Sta-tis-ti-cal
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 90--91
+Underfull \hbox (badness 1281) in paragraph at lines 91--92
 []\OT1/cmr/bx/n/10 Alternative Hy-poth-e-sis: \OT1/cmr/m/n/10 the doc-u-ment fre-
  []
 
@@ -255,29 +262,111 @@ Underfull \hbox (badness 1281) in paragraph at lines 90--91
 [3
 
 ]
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/ExplainedVarianceRatio.png, id=18, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ExplainedVarianceRatio.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/ExplainedVarianceRatio.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ExplainedVarianceRatio.png  used on input line 111.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlot.png, id=20, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlot.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlot.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlot.png  used on input line 125.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+
+
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlotColored.png, id=21, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlotColored.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlotColored.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlotColored.png  used on input line 146.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+
+
+[4 <C:/GitHub/DataScienceMachineLearning/wk_09/plots/ExplainedVarianceRatio.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlot.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/ScatterPlotColored.png>]
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/SilhouetteLinePlot.png, id=28, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/SilhouetteLinePlot.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/SilhouetteLinePlot.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/SilhouetteLinePlot.png  used on input line 165.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/KMeansClustering.png, id=29, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/KMeansClustering.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/KMeansClustering.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/KMeansClustering.png  used on input line 180.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+
+
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/AgglomerativeClustering.png, id=30, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/AgglomerativeClustering.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/AgglomerativeClustering.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/AgglomerativeClustering.png  used on input line 193.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/HeatMap.png, id=31, 462.528pt x 346.896pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/HeatMap.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/HeatMap.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/HeatMap.png  used on input line 208.
+(pdftex.def)             Requested size: 242.61894pt x 181.96432pt.
+
+
+[5 <C:/GitHub/DataScienceMachineLearning/wk_09/plots/SilhouetteLinePlot.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/KMeansClustering.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/AgglomerativeClustering.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/HeatMap.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--249
+\OT1/cmr/m/n/10 When we cre-ate a fea-ture ma-trix by us-ing
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 246--249
+\OT1/cmtt/m/n/10 fit[]transform() \OT1/cmr/m/n/10 from \OT1/cmtt/m/n/10 CountVectorizer\OT1/cmr/m/n/10 , we can
+ []
 
 
 
-[4
 
-] (Lab_7_JIC.aux)
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--308
+
+ []
+
+
+
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/HamCloud.png, id=45, 5932.1625pt x 3021.2875pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/HamCloud.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/HamCloud.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/HamCloud.png  used on input line 317.
+(pdftex.def)             Requested size: 242.61894pt x 123.55087pt.
+<C:/GitHub/DataScienceMachineLearning/wk_09/plots/SpamCloud.png, id=46, 5932.1625pt x 3021.2875pt>
+File: C:/GitHub/DataScienceMachineLearning/wk_09/plots/SpamCloud.png Graphic file (type png)
+<use C:/GitHub/DataScienceMachineLearning/wk_09/plots/SpamCloud.png>
+Package pdftex.def Info: C:/GitHub/DataScienceMachineLearning/wk_09/plots/SpamCloud.png  used on input line 326.
+(pdftex.def)             Requested size: 242.61894pt x 123.55087pt.
+
+
+[7 <C:/GitHub/DataScienceMachineLearning/wk_09/plots/HamCloud.png> <C:/GitHub/DataScienceMachineLearning/wk_09/plots/SpamCloud.png>] (Lab_7_JIC.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2661 strings out of 473536
- 41499 string characters out of 5712536
- 451910 words of memory out of 5000000
- 25876 multiletter control sequences out of 15000+600000
+ 2802 strings out of 473536
+ 47472 string characters out of 5712536
+ 454374 words of memory out of 5000000
+ 26013 multiletter control sequences out of 15000+600000
  564723 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,276b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Lab_7_JIC.pdf (4 pages, 102029 bytes).
+ <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Lab_7_JIC.pdf (7 pages, 2161629 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -12,3 +12,24 @@
 \contentsline {subsubsection}{\numberline {2.5.1}Using Binomial Testing}{3}{}%
 \contentsline {subsubsection}{\numberline {2.5.2}The Top 200 Words}{4}{}%
 \contentsline {section}{\numberline {3}Results}{4}{}%
+\contentsline {subsection}{\numberline {3.1}The Explained Variance Ratio}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Scatter Plot of Two Components}{4}{}%
+\contentsline {subsection}{\numberline {3.3}Colored Scatter Plots of Two Components}{4}{}%
+\contentsline {subsection}{\numberline {3.4}The Silhoutte Score}{5}{}%
+\contentsline {subsection}{\numberline {3.5}Centroid Based Clustering}{5}{}%
+\contentsline {subsection}{\numberline {3.6}Agglorometative Hierarchial Clustering}{5}{}%
+\contentsline {subsection}{\numberline {3.7}The Confusion Matrix Heatmap}{5}{}%
+\contentsline {section}{\numberline {4}Discussion}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Understanding the Dataset}{6}{}%
+\contentsline {subsection}{\numberline {4.2}The Feature Matrix}{6}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Rows and Columns of the Feature Matrix}{6}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Calculating the Sparsity Ratio}{6}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}The Meaning Behind The Feature Matrix}{6}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}The Compressed Row Format}{6}{}%
+\contentsline {subsection}{\numberline {4.3}A Closer Look at Dimensionality Reduction}{6}{}%
+\contentsline {subsection}{\numberline {4.4}A Closer Look at Clustering}{6}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Cluster Assignment Analysis}{6}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}Choice of Clustering Algorithm}{6}{}%
+\contentsline {subsubsection}{\numberline {4.4.3}Application of Transformations}{7}{}%
+\contentsline {subsubsection}{\numberline {4.4.4}The Ham \& Spam Labels vs Cluster Labels}{7}{}%
+\contentsline {subsection}{\numberline {4.5}The Top 200 Words}{7}{}%
