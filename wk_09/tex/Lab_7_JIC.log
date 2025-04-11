@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  9 APR 2025 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  10 APR 2025 20:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -234,11 +234,31 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 [2
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+
+ []
+
+
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 81--81
+[]\OT1/cmr/bx/n/12 Enriched Words with Sta-tis-ti-cal
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 90--91
+[]\OT1/cmr/bx/n/10 Alternative Hy-poth-e-sis: \OT1/cmr/m/n/10 the doc-u-ment fre-
+ []
 
 
 
 [3
 
+]
+
+
+
+[4
 
 ] (Lab_7_JIC.aux)
  ***********
@@ -247,17 +267,17 @@ L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2649 strings out of 473536
- 41314 string characters out of 5712536
- 435910 words of memory out of 5000000
- 25866 multiletter control sequences out of 15000+600000
- 563459 words of font info for 52 fonts, out of 8000000 for 9000
+ 2661 strings out of 473536
+ 41499 string characters out of 5712536
+ 451910 words of memory out of 5000000
+ 25876 multiletter control sequences out of 15000+600000
+ 564723 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,8n,65p,276b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Lab_7_JIC.pdf (3 pages, 62495 bytes).
+ <C:\Users\chowdhuryj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/chowdhuryj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Lab_7_JIC.pdf (4 pages, 102029 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
