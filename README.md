@@ -24,3 +24,6 @@ on this dataset and then build a linear regression model.
 In [Week 14](wk_14\lab\Lab_9_JIC.ipynb), I used classification methods to predict whether breast tissue samples are
 malignant or benign. I achieved this by setting up a experiment, training a baseline model, performing feature 
 selection and etc. 
+
+### Note
+The artworks used in this repository are by Alison Friend, check out her [artwork](https://www.instagram.com/mcfriendy/)! 
