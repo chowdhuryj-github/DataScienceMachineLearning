@@ -1,5 +1,4 @@
-<img src="assets/machinelearning.png" alt="Banner" style="width:100%;"/>
-
+![Bucks](assets/banners.gif)
 
 # DataScienceMachineLearning
 Welcome to the MSOE Machine Learning Repository! This is a collection of my work ranging from week 9 to week 14.
